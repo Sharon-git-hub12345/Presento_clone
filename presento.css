@@ -1,0 +1,281 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.get-started {
+    background-color: rgb(240, 55, 55);
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    color: white;
+    border-width: 0px;
+  }
+  .enno {
+    font-size: 30px;
+    margin-left: 70px;
+    color: black;
+    padding: 0px;
+ 
+
+  }
+  .left-contents {
+    margin-left: 400px;
+  }
+  .dot-icon {
+   color: red;
+   padding-top: 90px;
+  }
+  .img-cont-fluid {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(/img/hero-bg.jpg) ;
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+  }
+  .text-grey {
+    color: rgb(167, 163, 163);
+  }
+  .companies-6 {
+    /* width:109px;
+    height: 40px; */
+    
+  } 
+
+  .companies-6 img {filter: grayscale(100%);}
+
+  .companies-6:hover img { 
+    filter: grayscale(0%);
+  }
+.clip-path {
+  clip-path: polygon(0 7%, 100% 0, 100% 92%, 0 100%);
+    background-color: black;
+    
+
+  }
+  .button-about-us {
+    border-radius: 30px;
+    border-color: red;
+    background-color: black;
+    padding: 6px 20px 6px 20px;
+    
+  }
+  .button-about-us:hover {
+    background-color: rgb(202, 20, 20);
+  }
+  .were-1 {
+    margin-right: 250px;
+    margin-top: -10px;
+  }
+  .div-boxshadow {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+  }
+ .rounded-icon {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 150px;
+padding:9px 12px 9px 12px;
+ }
+ .text-color {
+  color: rgb(99, 97, 97);
+ }
+ .small-div {
+  width: 190px;
+ }
+ .border-div {
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(190, 186, 186);
+  
+ }
+ .border-div:hover {
+  border-color: rgb(223, 40, 40);
+ }
+ .border-div:hover .icon-4{
+  color: rgb(223, 40, 40);
+ }
+ .icon-4 {
+  color: rgb(0, 0, 0);
+ }
+ .text-italic {
+  font-family: italic;
+ }
+ .clip-path-bg {
+  clip-path: polygon(0 7%, 100% 0%, 100% 93%, 0% 100%);
+  background-color: black;
+  height: 1300px;
+  
+ }
+ 
+ hr.tag {
+  width: 5%; /* or any other width you want */
+border: 1px solid red;
+margin: auto;
+ }
+ .bg-color {
+  background-color: rgb(43, 41, 41);
+ }
+ .tag-hr {
+  width: 5%; /* or any other width you want */
+  border: 1px solid rgb(255, 0, 0);
+  margin: auto;
+
+ }
+
+ .under-line {
+  width: 70px;
+  height: 5px;
+  background-color: red;
+  margin: auto;
+ }
+ .testimonials-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+ }
+ .ceo-founder {
+  margin-top: -20px;
+ }
+ .box-div {
+  background-color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  
+  
+ }
+ .italic-font {
+  font-style: italic;
+  font-size: 17px;
+ }
+ .text-line {
+  text-decoration: line-through;
+ }
+ .padding-button {
+  width: 140px;border: 1px solid rgb(241, 241, 241);color: white;background-color: black;
+  border-radius: 4px;
+  border-color: gray;
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(90, 89, 89);
+  margin-bottom: 30px;
+ }
+ .padding-button:hover  {
+  background-color: rgb(185, 14, 14);
+  color: white;
+ }
+ .scale-div {transform: scale(1.2);}
+ .clip-path-3 {
+  clip-path: polygon(0 6%, 99% 0, 100% 94%, 0 100%);
+ }
+ .div-width {
+  width: 900px;
+  border: 1px solid gray;
+  background-color: rgb(233, 229, 229);
+  color: black;
+ }
+ .bg-color-1 {
+  background-color: black;
+  
+ }
+ .div-width:hover {
+  color: rgb(155, 4, 4);
+ }
+ .bg-color {
+  background-color: rgb(53, 50, 50);
+ }
+ .clip-path-4-img {
+  clip-path: polygon(0 7%, 100% 0%, 100% 90%, 0% 100%);
+  
+ }
+ .icon-bg {
+  border-radius: 40px;
+  border-color: red;
+  border-style: dotted;
+  
+  width: 50px;
+  padding: 10px 15px 10px 15px;
+ }
+.div-adrees {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.send-buton {
+  padding: 8px 25px 8px 25px ;
+  background-color: rgb(206, 35, 35);
+  color: white;
+  border-radius: 40px;
+  border-width: 1px;
+  border: none;
+}
+.input {
+  border-width: 1px;
+  border-style: solid;
+}
+.border {
+border: 1px solid rgb(85, 85, 85);
+
+}
+.get-started-1 {
+  background-color: rgb(240, 55, 55);
+  padding: 8px 20px 5px 20px;
+  border-radius: 5px;
+  color: white;
+  border-width: 0px;
+  margin-top: -10px;
+  margin-left: 121px;
+
+}
+.icons-tw-fb-insta-link {
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px 12px 10px 12px;
+  border-radius: 100px;
+}
+.icons-tw-fb-insta-link:hover {
+  color: rgb(192, 50, 50);
+}
+.font-hover:hover {
+  color: red;
+}
+.they-provide {
+  margin-top: -60px;
+}
+.exept {
+  margin-top: -20px;
+}
+.h3-hover {
+  color: white;
+}
+.hover-text:hover .h3-hover {
+  color: red;
+
+}
+.hover-heading:hover {
+  color:red
+
+}
+.top-div{
+ margin-top: 30px;
+}
+.pricing {
+ padding-bottom: 100px;
+}
+.border-style {
+  border: 1px grey solid;
+  
+}
+.border-style:hover .text-hover-1{
+  color: rgb(177, 8, 8);
+}
+
+
+
+
+
+ 
+ 
+
+ 
+
+
+  
+  
+  
